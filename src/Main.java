@@ -25,27 +25,25 @@ public class Main {
 		int num20 = (int)( change/20);
 		System.out.println("you get "+num20+" x $20");
 		change = change-num20*20;
-		int num50 = (int)( change/50);
-		System.out.println("you get "+num50+" x $50");
-		change = change-num50*50;
-		int num50 = (int)( change/50);
-		System.out.println("you get "+num50+" x $50");
-		change = change-num50*50;
-		int num50 = (int)( change/50);
-		System.out.println("you get "+num50+" x $50");
-		change = change-num50*50;
-		int num50 = (int)( change/50);
-		System.out.println("you get "+num50+" x $50");
-		change = change-num50*50;
-		int num50 = (int)( change/50);
-		System.out.println("you get "+num50+" x $50");
-		change = change-num50*50;
-		int num50 = (int)( change/50);
-		System.out.println("you get "+num50+" x $50");
-		change = change-num50*50;
-		int num50 = (int)( change/50);
-		System.out.println("you get "+num50+" x $50");
-		change = change-num50*50;
+		int num10 = (int)( change/10);
+		System.out.println("you get "+num10+" x $10");
+		change = change-num10*10;
+		int num5 = (int)( change/5);
+		System.out.println("you get "+num5+" x $5");
+		change = change-num5*5;
+		int num2 = (int)( change/2);
+		System.out.println("you get "+num50+" x $2");
+		change = change-num2*2;
+		int num0_25 = (int)( change/0_25);
+		System.out.println("you get "+num0_25+" x $0_25");
+		change = change-num0_25*0_25;
+		int num0_10 = (int)( change/0_10);
+		System.out.println("you get "+num0_10+" x $0_10");
+		change = change-num0_10*0_10;
+		int num0_05 = (int)( change/0_05);
+		System.out.println("you get "+num0_05+" x $0_05");
+		change = change-num0_05*0_05;
+	
 		
 	}
 }
